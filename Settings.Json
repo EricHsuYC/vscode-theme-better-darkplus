@@ -1,0 +1,55 @@
+  "workbench.colorCustomizations": {
+    "editor.background": "#010101",
+    "editorIndentGuide.activeBackground": "#569cd6",
+    "editorBracketMatch.border": "#569cd6b5",
+    "scrollbarSlider.background": "#3a3a3a",
+    "tab.activeBackground": "#3a363b",
+    "tab.activeForeground": "#ffffff",
+    "tab.border": "#434343",
+    "tab.activeBorder": "#569cd6",
+    "tab.unfocusedActiveBorder": "#939293",
+    "tab.inactiveBackground": "#2d2a2e",
+    "tab.inactiveForeground": "#a8a8a8",
+    "statusBar.background": "#2f5676"
+  },
+  "highlight-matching-tag.leftStyle": {
+    "borderStyle": "null",
+  },
+  "highlight-matching-tag.rightStyle": {
+    "borderStyle": "null",
+  },
+  "highlight-matching-tag.style": {
+    "borderStyle": "solid",
+    "borderWidth": "0px 0px 1px 0px",
+    "borderColor": "#569cd6",
+    "borderRadius": "5px"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "keyword.other.unit",
+        "settings": {
+          "fontStyle": "italic",
+          "foreground": "#569cd6"
+        }
+      },
+      {
+        "scope": "constant.numeric",
+        "settings": {
+          "foreground": "#a9dc76"
+        }
+      },
+      {
+        "scope": "keyword.operator",
+        "settings": {
+          "foreground": "#ff6188"
+        }
+      },
+      {
+        "scope": "invalid.illegal.bad-angle-bracket.html",
+        "settings": {
+          "foreground": "#ce9178"
+        }
+      }
+    ]
+  }
